@@ -1,0 +1,57 @@
+body {
+    background-color: #505050;
+}
+
+.navbar {
+    background-color: #3E3E3E !important;
+}
+
+.t-title-title {
+    color: #99C1D3 !important;
+}
+
+.t-logo {
+    margin-top: 10px;
+    width: 5em;
+    height: 11em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#logo-descrip {
+    color: #CFF0FF;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.t-title {
+    color: #CFF0FF;
+    margin-top: 20px;
+}
+
+.t-title-02 {
+    color: #CFF0FF;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.tech-description {
+    color: #99C1D3;
+}
+
+.descriptor-card {
+    background-color: #3D3D3D;
+    padding: 20px;
+    border-radius: 12px;
+    transition: 1s;
+    font-size: 20px;
+}
+
+.descriptor-card:hover {
+    background-color: #99C1D3;
+    color: white;
+}
